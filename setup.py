@@ -15,7 +15,7 @@ crypto_requires = ['cryptography>=3.2,<4']
 
 
 setup(
-    name='Authlib',
+    name='nevermined-authlib',
     version=version,
     author='Hsiaoming Yang',
     author_email='me@lepture.com',
